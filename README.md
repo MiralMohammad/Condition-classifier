@@ -19,9 +19,13 @@ The final application allows the user to upload a picture, and the model will pr
      - `Sad Person`
    - Collected training images for each emotion using a webcam or uploaded photos.
    - Trained the model in-browser using Teachable Machine’s built-in tools.
+  
+     
 
 2. **Exporting the Model**
    - Exported the model as a **TensorFlow-Keras model**.
+  
+   
 
 3. **Running the Prediction**
    - The web allows the user to **upload an image**.
